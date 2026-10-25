@@ -7,6 +7,7 @@ description: >
   fio! Motor Brushless de alta durabilidade, 2 baterias, maleta de transporte e
   acessórios. Oferta imperdível com 35% OFF no Mercado Livre!
 link: https://meli.la/1AjKsPU1
+image: /assets/images/1000949757.jpg
 ---
 Potência, autonomia e praticidade para os teus trabalhos de marcenaria, oficina, reformas ou manutenção doméstica! 
 
