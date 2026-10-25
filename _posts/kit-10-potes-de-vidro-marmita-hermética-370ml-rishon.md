@@ -6,4 +6,5 @@ description: >
   vedação hermética, vão ao freezer, micro-ondas e forno. Super oferta com 51%
   OFF no Mercado Livre!
 link: https://meli.la/19cqZHH
+image: /images/uploads/1000949573.jpg
 ---
