@@ -7,10 +7,6 @@ publish_mode: editorial_workflow
 media_folder: "assets/images"
 public_folder: "/assets/images"
 
-# Configuração para garantir que a imagem seja linkada e salva corretamente de imediato
-media_library:
-  name: uploadCare # ou configuração padrão otimizada do git-gateway
-
 collections:
   - name: "posts"
     label: "Achadinhos & Produtos"
