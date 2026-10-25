@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   site_domain: pandaclubpromo.netlify.app
+  netlify_app_url: https://pandaclubpromo.netlify.app
   branch: main
 
 publish_mode: editorial_workflow
