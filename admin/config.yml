@@ -16,7 +16,7 @@ collections:
     fields:
       - { label: "Título do Produto", name: "title", widget: "string" }
       - { label: "Categoria", name: "category", widget: "string" }
-      - { label: "Descrição Curta", name: "description", widget: "text" }
+      - { label: "Descrição Curta", name: "description", widget: "string" }
       - { label: "Link de Afiliado (Mercado Livre)", name: "link", widget: "string" }
       - { label: "Imagem do Produto", name: "image", widget: "image", required: false, choose_url: false }
       - { label: "Descrição Completa (Detalhes)", name: "body", widget: "markdown", required: false }
