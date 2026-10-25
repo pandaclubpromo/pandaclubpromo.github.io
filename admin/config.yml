@@ -1,22 +1,20 @@
 backend:
   name: git-gateway
-  site_domain: pandaclubpromo.netlify.app
-  netlify_app_url: https://pandaclubpromo.netlify.app
   branch: main
 
-publish_mode: editorial_workflow
-
-media_folder: "images/uploads"
-public_folder: "/images/uploads"
+media_folder: "assets/images"
+public_folder: "/assets/images"
 
 collections:
-  - name: "produtos"
+  - name: "posts"
     label: "Achadinhos & Produtos"
     folder: "_posts"
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Título do Produto", name: "title", widget: "string"}
-      - {label: "Categoria", name: "category", widget: "string"}
-      - {label: "Descrição Curta", name: "description", widget: "text"}
-      - {label: "Link de Afiliado (Mercado Livre)", name: "link", widget: "string"}
-      - {label: "Imagem do Produto", name: "image", widget: "image", required: false}
+      - { label: "Título do Produto", name: "title", widget: "string" }
+      - { label: "Categoria", name: "category", widget: "string" }
+      - { label: "Descrição Curta", name: "description", widget: "text" }
+      - { label: "Link de Afiliado (Mercado Livre)", name: "link", widget: "string" }
+      - { label: "Imagem do Produto", name: "image", widget: "image", required: false }
+      - { label: "Descrição Completa (Detalhes)", name: "body", widget: "markdown", required: false }
