@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  site_domain: pandaclubpromo.netlify.app
   branch: main
 
 publish_mode: editorial_workflow
@@ -9,7 +10,7 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "produtos"
-  - label: "Achadinhos & Produtos"
+    label: "Achadinhos & Produtos"
     folder: "_posts"
     create: true
     fields:
