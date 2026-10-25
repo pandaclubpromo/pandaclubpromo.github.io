@@ -7,6 +7,10 @@ publish_mode: editorial_workflow
 media_folder: "assets/images"
 public_folder: "/assets/images"
 
+# Configuração para garantir que a imagem seja linkada e salva corretamente de imediato
+media_library:
+  name: uploadCare # ou configuração padrão otimizada do git-gateway
+
 collections:
   - name: "posts"
     label: "Achadinhos & Produtos"
@@ -18,5 +22,5 @@ collections:
       - { label: "Categoria", name: "category", widget: "string" }
       - { label: "Descrição Curta", name: "description", widget: "text" }
       - { label: "Link de Afiliado (Mercado Livre)", name: "link", widget: "string" }
-      - { label: "Imagem do Produto", name: "image", widget: "image", required: false }
+      - { label: "Imagem do Produto", name: "image", widget: "image", required: false, choose_url: false }
       - { label: "Descrição Completa (Detalhes)", name: "body", widget: "markdown", required: false }
