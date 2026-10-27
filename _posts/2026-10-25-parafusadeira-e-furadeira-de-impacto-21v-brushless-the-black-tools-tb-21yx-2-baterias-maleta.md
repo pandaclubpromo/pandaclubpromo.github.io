@@ -2,7 +2,9 @@
 title: Parafusadeira e Furadeira de Impacto 21V Brushless The Black Tools
   TB-21YX (2 Baterias + Maleta)
 category: Ferramentas
-description: "\n"
+description: Kit completo com Parafusadeira e Furadeira de Impacto Profissional
+  21V sem fio! Motor Brushless de alta durabilidade, 2 baterias, maleta de
+  transporte e acessórios. Oferta imperdível com 35% OFF no Mercado Livre!
 link: https://meli.la/1AjKsPU
 image: /assets/images/1000949757.jpg
 ---
