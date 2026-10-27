@@ -1,11 +1,7 @@
 ---
 title: Auxiliar de Partida e Compressor de Ar Portátil 4 em 1 Floots (Jump Starter)
 category: Automotivo
-description: >
-  O equipamento de socorro indispensável para o teu veículo! Funciona como
-  auxiliar de partida para bateria, compressor de ar digital para pneus, power
-  bank e luz de emergência com 56% OFF no Mercado
-  Livre[span_0](start_span)[span_0](end_span)!
+description: "\n"
 link: https://meli.la/1Hd4bEi
 image: /assets/images/1000949770.jpg
 ---
