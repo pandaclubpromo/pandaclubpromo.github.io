@@ -4,7 +4,7 @@ title: "Kit Depilação Completa 4 em 1 com Caneta Depiladora: Praticidade e
 category: Cuidados pessoais
 description: Garanta uma pele suave e livre de irritações com o Kit de Depilação
   Completa. Prático, portátil e ideal para o corpo, rosto e sobrancelhas!
-link: https://meli.la/2V8oBE6w
+link: https://meli.la/2V8oBE6
 image: /assets/images/1000960570.jpg
 ---
 Seja para manter os cuidados diários em dia ou para aquela viagem rápida, o Kit Depilação Completa é o aliado perfeito para a sua rotina de beleza.
